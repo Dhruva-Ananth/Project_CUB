@@ -1,4 +1,10 @@
-ADF7030-1
+[ADF7030-1 Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/adf7030-1.pdf)
+
+[ADF7030-1 Website](https://www.analog.com/en/products/adf7030-1.html)
+
+[ADF7030-1 Hardware Design Manual](https://www.analog.com/media/en/technical-documentation/user-guides/ADF7030-1-UG-957.pdf)
+
+[ADF7030-1 Software Design Manual](https://www.analog.com/media/en/technical-documentation/user-guides/ADF7030-1-UG-1002.pdf)
 
 System Design
 -----------------------------------------------------------------------------------------------
